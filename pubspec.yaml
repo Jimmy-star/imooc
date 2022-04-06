@@ -61,6 +61,43 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+  assets:
+    - lib/image/bg_loading.jpg
+    - lib/image/bar_code_scan_icon.png
+    - lib/image/category.png
+    - lib/image/comui_shar_qq.png
+    - lib/image/comui_share_qqzone.png
+    - lib/comui_share_weixin.png
+    - lib/comui_share_weixin_pegngyou.png
+    - lib/image/comui_tab_home.png
+    - lib/image/comui_tab_home_selected.png
+    - lib/image/comui_tab_message.png
+    - lib/image/comui_tab_message_selected.png
+    - lib/image/comui_tab_person.png
+    - lib/image/comui_tab_person_selected.png
+    - lib/image/default_user/avatar.png
+    - lib/image/icon_chats.png
+    - lib/image/icon_imooc.png
+    - lib/image/icon_login.png
+    - lib/image/icon_search.png
+    - lib/image/love_red.png
+    - lib/image/page_loading_01.png
+    - lib/image/page_loading_02.png
+    - lib/image/page_loading_02.png
+    - lib/image/page_loading_04.png
+    - lib/image/page_loading_05.png
+    - lib/image/page_loading_06.png
+    - lib/image/page_loading_07.png
+    - lib/image/page_loading_08.png
+    - lib/image/page_loading_09.png
+    - lib/image/page_loading_10.png
+    - lib/image/page_loading_11.png
+    - lib/image/page_loading_12.png
+    - lib/image/page_loading_13.png
+    - lib/image/page_loading_14.png
+    - lib/image/welcome_1.png
+    - lib/image/welcome_2.png
+    - lib/image/welcome_3.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -84,6 +121,4 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
-  #
-  # For details regarding fonts from package dependencies,
-  # see https://flutter.dev/custom-fonts/#from-packages
+
